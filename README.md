@@ -21,8 +21,8 @@ The project also includes a Flask-based web application where users can input th
 ## **Installation**
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/erdembayraktar/Sentiment-Analysis-on-Movie-Reviews.git
+cd Sentiment-Analysis-on-Movie-Reviews
 ```
 
 ### **Step 2: Set Up Virtual Environment**
